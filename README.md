@@ -1,6 +1,6 @@
 # Telegram Stickers Migration
 
-Helps quickly migrate (import or export) sticker sets from one account to second account 
+Helps quickly migrate (import or export) sticker sets from one account to another account 
 ## Installation
 ```pip install -r requirements.txt```
 ## Setup
