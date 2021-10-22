@@ -1,4 +1,4 @@
-# Telegram Stickers Migration
+# Telegram Sticker Sets Migration
 
 Helps quickly migrate (import or export) sticker sets from one account to another account 
 ## Installation
