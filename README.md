@@ -32,8 +32,7 @@ For only **IMPORT** run
 ### 3. After run script you should authorize on the account(s) and migration will be start
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
+Pull requests are welcome.
 ## License
 [MIT](https://github.com/svtcore/telegram-referral-bot/blob/main/LICENSE)
 
